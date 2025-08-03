@@ -1,0 +1,2 @@
+http://47.122.117.184:8080/Less-1/?id=1
+http://176.126.113.252:8080/sqli-labs/sql-connections/setup-db.php?id=1
